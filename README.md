@@ -1,4 +1,4 @@
-# Pokémon Battle Simulator
+# Pokemon Battle Simulator
 
 🎮 A **turn-based Pokémon battle simulator** written in **C**, inspired by  
 https://play.pokemonshowdown.com
@@ -39,7 +39,7 @@ The project focuses on **core battle logic**, not graphics or networking.
 
 ---
 
-⚔️ Battle Mechanics Implemented
+## ⚔️ Battle Mechanics Implemented
 
 Type effectiveness (including dual types)
 
@@ -57,7 +57,7 @@ End-of-round and start-of-round state handling
 
 ---
 
-💡 What I Learned
+## 💡 What I Learned
 
 This project was a major milestone in my programming journey. Through it, I learned:
 
@@ -77,7 +77,7 @@ That low-level languages like C build strong fundamentals
 
 ---
 
-🚀 How to Compile and Run
+## 🚀 How to Compile and Run
 gcc -Wall -Wextra -Werror main.c init.c battle.c -o main
 ./main
 
@@ -85,7 +85,7 @@ Make sure all .txt data files are in the same directory as the executable.
 
 ---
 
-📌 Notes
+## 📌 Notes
 
 This project is for educational purposes only
 
@@ -95,7 +95,7 @@ Inspired by Pokémon Showdown, but fully implemented from scratch in C
 
 ---
 
-⭐ Final Thoughts
+## ⭐ Final Thoughts
 
 This project helped solidify my understanding of C programming, game logic, and software structure.
 It represents a big step forward in writing larger, more organized programs.
