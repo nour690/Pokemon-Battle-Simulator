@@ -3,7 +3,7 @@
 🎮 A **turn-based Pokémon battle simulator** written in **C**, inspired by  
 https://play.pokemonshowdown.com
 
-This project simulates core Pokémon battle mechanics such as **types, moves, damage calculation, switching, speed priority, and fainting**, all through a terminal-based interface.
+This project simulates core Pokemon battle mechanics such as **types, moves, damage calculation, switching, speed priority, and fainting**, all through a terminal-based interface.
 
 > ⚠️ This is an educational **simulation**, not an official Pokémon product.
 
