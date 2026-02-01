@@ -55,6 +55,8 @@ Automatic faint handling
 
 End-of-round and start-of-round state handling
 
+---
+
 💡 What I Learned
 
 This project was a major milestone in my programming journey. Through it, I learned:
@@ -73,13 +75,15 @@ Why code organization and readability matter as projects grow
 
 That low-level languages like C build strong fundamentals
 
+---
 
 🚀 How to Compile and Run
 gcc -Wall -Wextra -Werror main.c init.c battle.c -o main
 ./main
 
-
 Make sure all .txt data files are in the same directory as the executable.
+
+---
 
 📌 Notes
 
@@ -89,9 +93,13 @@ Pokémon names, types, and moves belong to The Pokémon Company
 
 Inspired by Pokémon Showdown, but fully implemented from scratch in C
 
+---
+
 ⭐ Final Thoughts
 
 This project helped solidify my understanding of C programming, game logic, and software structure.
 It represents a big step forward in writing larger, more organized programs.
 
 Feel free to explore, fork, or suggest improvements!
+
+---
