@@ -103,3 +103,12 @@ It represents a big step forward in writing larger, more organized programs.
 Feel free to explore, fork, or suggest improvements!
 
 ---
+
+## 👨‍💻 Author
+Mohammad Nour ALTURKMANI
+
+Software Engineering Student @ FSMV University
+
+📍 Passionate about learning programming and software design.
+
+🗓️ Project created in June 2025, during my first semester at FSMVU.
