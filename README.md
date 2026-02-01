@@ -111,4 +111,4 @@ Software Engineering Student @ FSMV University
 
 📍 Passionate about learning programming and software design.
 
-🗓️ Project created in June 2025, during my first semester at FSMVU.
+🗓️ Project created in December 2025, during my first semester at FSMVU.
